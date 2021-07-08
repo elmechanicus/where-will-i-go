@@ -1,0 +1,6 @@
+.to-go__image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    padding-right: 100px;
+}

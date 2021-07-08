@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Pragmatica-cyrillic';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("pragmatica-cyrillic.woff2") format("woff2"), url("pragmatica-cyrillic.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Pragmatica-cyrillic';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("pragmatica-bold-cyrillic.woff2") format("woff2"), url("pragmatica-bold-cyrillic.woff") format("woff");
+}

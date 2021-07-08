@@ -1,0 +1,12 @@
+.to-go__title {
+    display: flex;
+    margin: 0;
+    padding: 0 0 0 2px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: rgb(254, 210, 176);
+    letter-spacing: -0.03em;
+}

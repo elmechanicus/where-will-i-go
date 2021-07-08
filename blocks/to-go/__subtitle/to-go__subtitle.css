@@ -1,0 +1,10 @@
+.to-go__subtitle {
+    display: flex;
+    margin: 0;
+    padding: 34px 0 0 2px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 1.3;
+    letter-spacing: -0.03em;
+}

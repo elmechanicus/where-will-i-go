@@ -1,0 +1,12 @@
+.head__text {
+    padding-left: 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1;
+    text-transform: capitalize;
+}
+
+.head__text:first-child {
+    padding: 0;
+}

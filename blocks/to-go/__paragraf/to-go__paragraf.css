@@ -1,0 +1,8 @@
+.to-go__paragraf {
+    display: flex;
+    flex-direction: column;
+    max-width: 785px;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
