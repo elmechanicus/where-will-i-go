@@ -1,0 +1,11 @@
+.quotes__paragraf {
+    display: flex;
+    flex-direction: column;
+    padding-left: 60px;
+    margin: 0;
+    max-width: 278px;
+}
+
+.quotes__paragraf:first-child {
+    padding: 0;
+}

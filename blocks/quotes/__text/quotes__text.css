@@ -1,0 +1,11 @@
+.quotes__text {
+    margin: 0;
+    padding-top: 27px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.7;
+    /* transform-origin: 0 0;
+    transform: scaleX(1.3); */
+    letter-spacing: 0.03em;
+}

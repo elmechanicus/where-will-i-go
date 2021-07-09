@@ -1,1 +1,7 @@
-.quotes {}
+.quotes {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 150px);
+    margin: 0 auto;
+    padding: 0;
+}

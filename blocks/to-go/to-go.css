@@ -1,6 +1,5 @@
 .to-go {
     display: flex;
-    background: rgb(111, 135, 155);
     margin: 0 auto;
     max-width: calc(100% - 154px);
 }

@@ -1,0 +1,12 @@
+.quotes__author {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.1;
+    text-transform: uppercase;
+    letter-spacing: -0.05em;
+    transform-origin: 0 0;
+    transform: scaleX(.935);
+}

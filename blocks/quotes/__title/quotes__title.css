@@ -1,14 +1,13 @@
-.to-go__title {
-    display: flex;
+.quotes__title {
     margin: 0;
-    padding: 0 0 0 2px;
+    padding: 5px 0 0 2px;
     font-style: normal;
     font-weight: bold;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.1;
     text-transform: uppercase;
     color: rgb(254, 210, 176);
-    letter-spacing: -0.035em;
+    letter-spacing: -0.05em;
     transform-origin: 0 0;
-    transform: scale(.99, 1.1);
+    transform: scaleX(.8);
 }

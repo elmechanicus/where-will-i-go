@@ -7,3 +7,10 @@
     margin: 0;
     padding: 74px 80px 95px 80px;
 }
+
+@media screen and (max-width: 1085px) {
+    .places__paragraf {
+        max-width: calc(100% - 100px);
+        padding-right: 0;
+    }
+}

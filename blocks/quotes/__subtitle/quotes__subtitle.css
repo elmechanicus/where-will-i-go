@@ -1,0 +1,11 @@
+.quotes__subtitle {
+    margin: 0;
+    padding: 33px 0 0 2px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 1.3;
+    transform-origin: 0 0;
+    transform: scaleX(1.035);
+    letter-spacing: -0.05em;
+}
