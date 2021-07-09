@@ -1,1 +1,7 @@
-.places {}
+.places {
+    display: grid;
+    width: 100%;
+    background-color: rgb(242, 242, 242);
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}

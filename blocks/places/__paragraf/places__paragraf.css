@@ -1,0 +1,9 @@
+.places__paragraf {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: calc(100% - 288px);
+    width: 100%;
+    margin: 0;
+    padding: 74px 80px 95px 80px;
+}

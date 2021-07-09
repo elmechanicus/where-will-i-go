@@ -1,0 +1,6 @@
+.places__photo {
+    width: 100%;
+    max-width: 720px;
+    height: 600px;
+    object-fit: cover;
+}
