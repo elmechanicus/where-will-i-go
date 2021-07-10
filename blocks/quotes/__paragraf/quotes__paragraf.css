@@ -5,6 +5,9 @@
     margin: 0;
     max-width: 278px;
     box-sizing: border-box;
+    transition-property: border-radius, box-shadow;
+    transition-duration: .5s;
+    transition-timing-function: linear;
 }
 
 .quotes__paragraf:first-child {
