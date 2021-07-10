@@ -9,3 +9,10 @@
     transform: scaleX(1.3); */
     letter-spacing: 0.03em;
 }
+
+
+/* @media screen and (max-width: 430px) {
+    .quotes__text {
+        padding-top: 14px;
+    }
+} */

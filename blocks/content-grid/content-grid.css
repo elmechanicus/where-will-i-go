@@ -7,3 +7,10 @@
     box-sizing: border-box;
     padding: 96px 0 142px 0;
 }
+
+@media screen and (max-width: 430px) {
+    .content-grid {
+        row-gap: 48px;
+        padding: 48px 0 42px 0;
+    }
+}

@@ -7,4 +7,14 @@
     line-height: 1;
     text-transform: capitalize;
     letter-spacing: -0.005em;
+    transition-property: border-radius, box-shadow, padding;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+}
+
+.head__complaint:hover {
+    border-radius: 3px;
+    box-shadow: -2px 2px 4px 0 black;
+    text-transform: uppercase;
+    padding: 3px;
 }

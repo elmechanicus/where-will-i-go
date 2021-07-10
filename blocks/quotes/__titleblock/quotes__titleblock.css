@@ -3,3 +3,9 @@
     padding: 0;
     max-width: 450px;
 }
+
+@media screen and (max-width: 450px) {
+    .quotes__titleblock {
+        max-width: 320px;
+    }
+}

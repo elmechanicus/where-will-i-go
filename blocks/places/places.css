@@ -1,7 +1,19 @@
 .places {
     display: grid;
     width: 100%;
+    margin: 0;
+    padding: 0;
     background-color: rgb(242, 242, 242);
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(3, 1fr);
+    grid-template-areas: "one four" "five two" "three six";
+}
+
+@media screen and (max-width: 430px) {
+    .places {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(6, 1fr);
+        grid-template-areas: "four" "one" "five" "two" "six" "three";
+        row-gap: 20px;
+    }
 }

@@ -1,4 +1,9 @@
 .head__link {
     text-decoration-line: none;
     color: #000;
+    transition: opacity .3s linear;
+}
+
+.head__link:hover {
+    opacity: .5;
 }

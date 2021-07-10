@@ -20,6 +20,12 @@
 @import url(../blocks/places/__title/places__title.css);
 @import url(../blocks/places/__many-descriptions/places__many-descriptions.css);
 @import url(../blocks/places/__description/places__description.css);
+@import url(../blocks/places/_position/places_position_one.css);
+@import url(../blocks/places/_position/places_position_two.css);
+@import url(../blocks/places/_position/places_position_three.css);
+@import url(../blocks/places/_position/places_position_four.css);
+@import url(../blocks/places/_position/places_position_five.css);
+@import url(../blocks/places/_position/places_position_six.css);
 @import url(../blocks/quotes/quotes.css);
 @import url(../blocks/quotes/__titleblock/quotes__titleblock.css);
 @import url(../blocks/quotes/__title/quotes__title.css);

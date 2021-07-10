@@ -1,4 +1,27 @@
 .quotes__people {
     display: flex;
     padding-top: 132px;
+    list-style-type: none;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+@media screen and (max-width: 1085px) {
+    .quotes__people {
+        flex-wrap: wrap;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .quotes__people {
+        flex-direction: column;
+        padding-top: 65px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .quotes__people {
+        max-width: 320px;
+    }
 }

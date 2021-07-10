@@ -4,4 +4,15 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
+    text-transform: capitalize;
+    transition-property: border-radius, box-shadow, padding;
+    transition-duration: .5s;
+    transition-timing-function: linear;
+}
+
+.head__menu:hover {
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px 0 black;
+    text-transform: uppercase;
+    padding: 3px;
 }

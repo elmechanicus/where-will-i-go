@@ -6,3 +6,9 @@
     min-height: 700px;
     background-color: rgb(254, 205, 167);
 }
+
+@media screen and (max-width: 600px) {
+    .footer {
+        min-height: 300px;
+    }
+}

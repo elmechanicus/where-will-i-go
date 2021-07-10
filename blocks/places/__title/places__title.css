@@ -1,10 +1,18 @@
 .places__title {
     margin: 0;
     padding: 0;
+    width: 100%;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 1;
     transform-origin: 0 0;
     transform: scaleX(1.01);
+}
+
+@media screen and (max-width: 768px) {
+    .places__title {
+        font-size: 24px;
+        max-width: 300px;
+    }
 }

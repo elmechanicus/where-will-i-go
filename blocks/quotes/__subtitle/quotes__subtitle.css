@@ -9,3 +9,16 @@
     transform: scaleX(1.035);
     letter-spacing: -0.05em;
 }
+
+@media screen and (max-width: 560px) {
+    .quotes__subtitle {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width:430) {
+    .quotes__subtitle {
+        max-width: calc(100% - 10px);
+        font-size: 20px;
+    }
+}

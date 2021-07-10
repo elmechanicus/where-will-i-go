@@ -4,3 +4,9 @@
     height: 600px;
     object-fit: cover;
 }
+
+@media screen and (max-width: 430px) {
+    .places__photo {
+        height: 250px;
+    }
+}

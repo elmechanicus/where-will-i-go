@@ -4,9 +4,15 @@
     font-weight: bold;
     font-size: 14px;
     line-height: 1;
-    text-transform: capitalize;
+    text-transform: inherit;
 }
 
 .head__text:first-child {
     padding: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .head__text {
+        padding-left: 10px;
+    }
 }

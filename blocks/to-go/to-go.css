@@ -3,3 +3,11 @@
     margin: 0 auto;
     max-width: calc(100% - 154px);
 }
+
+@media screen and (max-width: 768px) {
+    .to-go {
+        flex-direction: column;
+        align-items: center;
+        max-width: calc(100% - 20px);
+    }
+}

@@ -6,3 +6,10 @@
     padding: 0;
     justify-content: center;
 }
+
+@media screen and (max-width: 515px) {
+    .to-go__paragraf {
+        width: 100%;
+        max-width: 100%;
+    }
+}
