@@ -4,6 +4,7 @@
     padding-left: 60px;
     margin: 0;
     max-width: 278px;
+    box-sizing: border-box;
 }
 
 .quotes__paragraf:first-child {
@@ -30,4 +31,10 @@
     .quotes__paragraf {
         padding: 0;
     }
+}
+
+.quotes__paragraf:hover {
+    background-color: rgba(235, 200, 126, 0.5);
+    border-radius: 5px;
+    box-shadow: 0 10px 20px #000;
 }
