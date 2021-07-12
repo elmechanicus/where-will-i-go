@@ -1,12 +1,9 @@
 .places__paragraf {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    max-width: calc(100% - 125px);
-    width: 100%;
+    max-width: calc(100% - 288px);
     margin: 0;
     padding: 74px 80px 95px 80px;
-    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1085px) {
@@ -19,15 +16,13 @@
 @media screen and (max-width: 768px) {
     .places__paragraf {
         padding: 20px 20px;
-        justify-content: space-around;
         max-width: calc(100% - 40px);
     }
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 600px) {
     .places__paragraf {
         padding: 0;
-        justify-content: space-evenly;
         max-width: calc(100% - 4px);
         margin: 0 auto;
     }
