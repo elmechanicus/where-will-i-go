@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 826px) {
     .quotes__people {
         flex-direction: column;
         padding-top: 65px;

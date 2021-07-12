@@ -5,7 +5,7 @@
     padding-right: 100px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 935px) {
     .to-go__image {
         padding-right: 0px;
     }

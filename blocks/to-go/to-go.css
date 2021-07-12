@@ -4,7 +4,7 @@
     max-width: calc(100% - 154px);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 935px) {
     .to-go {
         flex-direction: column;
         align-items: center;
