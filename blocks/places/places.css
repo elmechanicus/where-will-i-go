@@ -9,7 +9,7 @@
     grid-template-areas: "one four" "five two" "three six";
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 600px) {
     .places {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(6, 1fr);
